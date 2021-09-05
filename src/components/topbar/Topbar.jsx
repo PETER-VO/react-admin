@@ -22,7 +22,11 @@ export default function Topbar() {
 						<div className='topbarIconContainer'>
 							<Settings />
 						</div>
-						<img src='./avatar.jpg' alt='' className='topAvatar' />
+						<img
+							src='https://user-images.githubusercontent.com/61008063/132121444-fd06db3b-cdb4-46bf-88b0-d21b4157f954.jpg'
+							alt=''
+							className='topAvatar'
+						/>
 					</div>
 				</div>
 			</div>
