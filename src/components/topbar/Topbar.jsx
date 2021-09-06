@@ -4,7 +4,6 @@ import { NotificationsNone, Language, Settings } from '@material-ui/icons';
 
 export default function Topbar() {
 	return (
-		<div>
 			<div className='topbar'>
 				<div className='topbarWrapper'>
 					<div className='topLeft'>
@@ -30,6 +29,5 @@ export default function Topbar() {
 					</div>
 				</div>
 			</div>
-		</div>
 	);
 }
